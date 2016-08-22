@@ -1,3 +1,7 @@
+#Questions to ask interviewer:
+#Does the sequence need to stay in order?
+#
+
 def compressString(compressing):
     #edge case for length
     if(len(compressing) <= 2):
